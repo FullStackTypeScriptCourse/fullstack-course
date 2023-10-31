@@ -7,4 +7,27 @@
                  start-page="homepage.md">
 
     <toc-element topic="homepage.md"/>
+    <toc-element topic="week01.md">
+        <toc-element topic="week01part01.md"/>
+        <toc-element topic="week01part02.md"/>
+        <toc-element topic="week01part03.md"/>
+        <toc-element topic="week01exercise01.md"/>
+    </toc-element>
+    <toc-element topic="week02.md">
+        <toc-element topic="week02part01.md"/>
+        <toc-element topic="week02part02.md"/>
+        <toc-element topic="week02part03.md"/>
+        <toc-element topic="week02exercise01.md"/>
+        <toc-element topic="week02exercise02.md"/>
+    </toc-element>
+    <toc-element topic="week03.md">
+        <toc-element topic="week03part01.md"/>
+        <toc-element topic="week03part02.md"/>
+        <toc-element topic="week03exercise01.md"/>
+    </toc-element>
+    <toc-element topic="week04.md">
+        <toc-element topic="week04part01.md"/>
+        <toc-element topic="week04part02.md"/>
+    </toc-element>
+    <toc-element topic="examinfo.md"/>
 </instance-profile>

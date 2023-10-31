@@ -23,16 +23,18 @@
 | 17   |      | Hand-in                |                                                                         |         |
 | 18   |      | Exam                   |                                                                         |         |
 
-## Resources
 
 
-- [Moodle](https://cphbusiness.mrooms.net/course/view.php?id=11091)
-- [Typescript Git Repository](https://github.com/FullStackTypeScriptCourse/fullstack_backend_startcode)
+
+
+
+
 
 <seealso>
     <category ref="fsd">
         <a href="https://cphbusiness.mrooms.net/">Moodle</a>
+        <a href="https://github.com/FullStackTypeScriptCourse/fullstack_backend_startcode">Typescript Git Repository</a>
         <a href="https://cphbusiness.zoom.us/my/thomashartmann?pwd=N3gzTFd6RENkUDNBaGR1bjJmajc4UT09">Thomas Zoom</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/local-build.html">Jörg Zoom</a>
+        <a href="https://cphbusiness.zoom.us/my/cbajorg?pwd=VVQyT2xhdExmaEk0Z0RqY2ovTU9Bdz09">Jörg Zoom</a>
     </category>
 </seealso>
